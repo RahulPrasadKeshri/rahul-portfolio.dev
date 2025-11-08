@@ -3,7 +3,7 @@ import cors from "cors";
 import nodemailer from "nodemailer";
 
 const app = express();
-app.use(cors({ origin: "https://rahul-keshri-portfolio.netlify.app/" })); // your frontend port
+app.use(cors({ origin: "https://rahul-keshri-portfolio.netlify.app" })); // your frontend port
 app.use(express.json());
 
 app.post("/api/contact", async (req, res) => {
