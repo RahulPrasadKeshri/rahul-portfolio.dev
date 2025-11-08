@@ -191,7 +191,7 @@ export const SkillsInfo = [
     tags: ["React.Js","Tailwind CSS","Node.Js","NodeMailer"],
     image: myportLogo,
     github: "https://github.com/rahulkeshri123/News-Aggregator",
-    webapp: "https://news-aggregator-123.vercel.app/",
+    webapp: "https://rahul-keshri-portfolio.netlify.app/",
   },
 ];
 
